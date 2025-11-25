@@ -1,0 +1,7 @@
+3
+4
+a four word prompt
+2
+small prompt
+5
+unique line with five words
